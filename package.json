@@ -1,0 +1,27 @@
+{
+  "name": "secrets-keeper",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NoobSato",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {},
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarvesh-Sato/Sec-keeper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sarvesh-Sato/Sec-keeper/issues"
+  },
+  "homepage": "https://github.com/Sarvesh-Sato/Sec-keeper#readme"
+}
